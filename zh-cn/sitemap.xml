@@ -2,118 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://clash-ty.github.io/myblog/"
+                href="http://localhost:1313/myblog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://clash-ty.github.io/myblog/ar/"
+                href="http://localhost:1313/myblog/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://clash-ty.github.io/myblog/zh-cn/"
+                href="http://localhost:1313/myblog/zh-cn/"
                 />
   </url><url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/categories/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://clash-ty.github.io/myblog/categories/"
+                href="http://localhost:1313/myblog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://clash-ty.github.io/myblog/ar/categories/"
+                href="http://localhost:1313/myblog/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://clash-ty.github.io/myblog/zh-cn/categories/"
+                href="http://localhost:1313/myblog/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/p/test-chinese/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/post/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://clash-ty.github.io/myblog/post/"
+                href="http://localhost:1313/myblog/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://clash-ty.github.io/myblog/ar/post/"
+                href="http://localhost:1313/myblog/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://clash-ty.github.io/myblog/zh-cn/post/"
+                href="http://localhost:1313/myblog/zh-cn/post/"
                 />
   </url><url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/categories/test/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://clash-ty.github.io/myblog/categories/test/"
+                href="http://localhost:1313/myblog/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://clash-ty.github.io/myblog/zh-cn/categories/test/"
+                href="http://localhost:1313/myblog/zh-cn/categories/test/"
                 />
   </url><url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/page/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://clash-ty.github.io/myblog/page/"
+                href="http://localhost:1313/myblog/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://clash-ty.github.io/myblog/zh-cn/page/"
+                href="http://localhost:1313/myblog/zh-cn/page/"
                 />
   </url><url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/tags/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://clash-ty.github.io/myblog/tags/"
+                href="http://localhost:1313/myblog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://clash-ty.github.io/myblog/ar/tags/"
+                href="http://localhost:1313/myblog/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://clash-ty.github.io/myblog/zh-cn/tags/"
+                href="http://localhost:1313/myblog/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://clash-ty.github.io/myblog/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/myblog/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://clash-ty.github.io/myblog/about/"
+                href="http://localhost:1313/myblog/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://clash-ty.github.io/myblog/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="http://localhost:1313/myblog/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>
