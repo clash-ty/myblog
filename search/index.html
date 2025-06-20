@@ -14,7 +14,21 @@
 <meta name="twitter:title" content="Search">
 <meta name="twitter:description" content=""><link rel="alternate" type="application/json" href="https://clash-ty.github.io/myblog/search/index.json">
     <link rel="shortcut icon" href="/favicon.ico" />
-<link rel="preload" href="/myblog/search/index.json" as="fetch" crossorigin="anonymous">
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=GA"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'GA');
+        }
+      </script><link rel="preload" href="/myblog/search/index.json" as="fetch" crossorigin="anonymous">
     </head>
     <body class="template-search">
     <script>
@@ -277,12 +291,12 @@
         
             2024 - 
         
-        2025 clash-ty
+        2025 clash-ty/myblog
     </section>
     
     <section class="powerby">
         
-            1312 <br/>
+            一切为了生活！ <br/>
         使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
         主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
     </section>
